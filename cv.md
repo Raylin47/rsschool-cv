@@ -51,14 +51,22 @@ I would say that i have a basic knowledge of C# (Loops, if functions, arrays etc
 At the moment I'm studying at college level 3 IT course. 
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 I would say that i have a decent knowledge of the english, russian and ukrainian. English because I have lived in england for 3 years and i had no issues in expressing myself or understanding others and russian and ukrainian are my native languages. 
 <<<<<<< HEAD:CV.md
 s
 =======
+=======
+>>>>>>> b6617443db76ee2a6389d499fa908ec86e35f0dd
 I would say that i have a decent knowledge of the english, russian and ukrainian. English because I have lived in england for 3 years and i had no issues in expressing myself or understanding others and russian and ukrainian are my native languages.
 new text
  
 <<<<<<< HEAD:cv.md
+<<<<<<< HEAD
 >>>>>>> b661744 (init: new text)
 =======
 >>>>>>> 9fefd6f (Rename CV.md to cv.md):cv.md
+=======
+=======
+>>>>>>> 9fefd6fe3eb31963f60896d18060b783b990a666:cv.md
+>>>>>>> b6617443db76ee2a6389d499fa908ec86e35f0dd
