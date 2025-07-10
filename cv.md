@@ -52,18 +52,27 @@ At the moment I'm studying at college level 3 IT course.
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> f024535 (init: new text)
 I would say that i have a decent knowledge of the english, russian and ukrainian. English because I have lived in england for 3 years and i had no issues in expressing myself or understanding others and russian and ukrainian are my native languages. 
 <<<<<<< HEAD:CV.md
 s
 =======
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> b6617443db76ee2a6389d499fa908ec86e35f0dd
+=======
+>>>>>>> f024535 (init: new text)
 I would say that i have a decent knowledge of the english, russian and ukrainian. English because I have lived in england for 3 years and i had no issues in expressing myself or understanding others and russian and ukrainian are my native languages.
 new text
  
 <<<<<<< HEAD:cv.md
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> f024535 (init: new text)
 >>>>>>> b661744 (init: new text)
 =======
 >>>>>>> 9fefd6f (Rename CV.md to cv.md):cv.md
