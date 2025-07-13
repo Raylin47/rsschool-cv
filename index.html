@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8 ">
+    <meta name = "viewport" content ="width=device-width, initial-scale=1.0">
+    <title>CV of Volodymyr Kholiavko</title>
+    <link rel="stylesheet" href="index.css">
+</head>
+
+ <body>
+  <Header>
+    <img src="Me.png" alt="My pciture" width="100" height="100" class="my_img">
+    <h1>My CV</h1>
+  </Header>
+   <main>
+      <div class="main_text">
+        <section><h2>About me:</h2>
+        <p>My name is Volodymyr Kholiavko, 17 years old, highly motivated individual, highly interested in programming and IT in general favorite IT topics are cybersecurity, software and website development. 
+My goal is to become a profesional IT specialist who would be able to solve tough problems.
+
+My strengths are my determination in studying, my punctuality i prefer to be 40 minutes early than 5 minutes late and my readiness of taking responsibility.</p>
+            </section><h2>Skills:</h2>
+            <p>I would say that i have a basic knowledge of C# (Loops, if functions, arrays etc.) on C# i have been developing a currency convertor and user interface for my assignment work in visual studio for college</p>
+            <p>Below is my code example for currency convertor:</p>
+       <pre>     
+                if (Cmb_from.Text == "$")
+            {
+                Dollars = double.Parse(txtBox.Text); 
+                euro = 0.92;
+                Sterling = 0.78;
+                yen = 155.36;
+                {
+                    if (Cmb_to.Text == "£")
+                    {
+                        result = Dollars * Sterling;
+                        lblResult.Text = result.ToString() + "£";
+                    }
+                    if (Cmb_to.Text == "¥")
+                    {
+                        result = Dollars * yen;
+                        lblResult.Text = result.ToString() + "¥";
+                    }
+                    if (Cmb_to.Text == "€")
+                    {
+                        result = Dollars * euro;
+                        lblResult.Text = result.ToString() + "€";
+                    }
+                    if (Cmb_to.Text == "$")
+                    {
+                        result = Dollars;
+                        lblResult.Text = result.ToString() + "$";
+                    }
+                }
+            }
+       </pre>    
+       <p>this is my code example converting from dollars to any other currency available. I have used variables to store their rate depending on what currency user have chosen. 
+
+ Moreover I also have a basic html, css knowledge i know how to make a decently looking adaptive webpage and even tried to make additional layout for phone view with help of media query of 764px. However unfortunately i dont have any experience programming on javascript. I have been producing a webpage for my college assignment as well. If you want to see it its available on my github account or just get to it by using this link <a href="https://raylin47.github.io/test/">https://raylin47.github.io/test/</a></p> 
+      <h2>Education</h2>
+      <p>the education i went through were level 2 IT and GCSE at grade 4 in maths,english and grade 5 in english literature. 
+
+At the moment I'm studying at college level 3 IT course. 
+</p>
+</div>
+     
+   </main>
+  <footer>
+    <div class="rs_info">
+        <a href="https://rs.school/courses/javascript-ru">
+    <img src="https://raw.githubusercontent.com/rolling-scopes-school/tasks/cb7e297deaa48db6f5ce46713346d6157a32b32c/tasks/cv/rs-school-logo.svg" alt="Photo of the course" width="100"height="100">
+    </a>
+    </div>
+    <nav>
+        <p >contact details:</p>
+        <ul>
+            <li>7404911855</li>
+            <li><a href="mailto:vovakholiavko@gmail.com" title="press on link to email me now">vovakholiavko@gmail.com</a></li>
+        </ul>
+    </nav>
+</footer>
+<div class="footer_bottom">Made with help of github by<a href="https://github.com/Raylin47">Volodymyr kholiavko</a> in 2025</div>
+</body>
+</html>
