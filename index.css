@@ -1,0 +1,47 @@
+
+body{
+    max-width:2000px;
+    margin:auto;
+}
+header{
+    display: flex;
+    justify-content: center;
+    
+}
+.my_img{
+    border-radius: 50%;
+    margin-right:1rem ;
+    border: solid 2px black;
+}
+main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.main_text{ 
+    max-width: 800px;
+    overflow-wrap: break-word;
+}
+
+footer{
+    display: flex;
+    justify-content: space-between;
+}
+.rs_info{
+   display: flex;
+   text-align: center;
+   align-items: center;
+}
+.footer_bottom{
+    text-align: center;
+}
+h2{
+    border-bottom:2px solid black;
+}
+pre{
+    background-color: bisque;
+}
+ul{
+    list-style: none;
+}
+
